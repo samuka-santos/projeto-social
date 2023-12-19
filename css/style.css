@@ -21,10 +21,19 @@ section#celular {
     position: absolute;
     top: 50%;
     left: 50%;
-    
+
     background: url('../images/frame-iphone.png') no-repeat;
     transform: translate(-50%, -50%);
 
     height: 627px;
     width: 311px;
 } 
+
+iframe#tela {
+    position: relative;
+    top: 81px;
+    left: 23px;
+
+    width: 266px;
+    height: 470px;
+}
