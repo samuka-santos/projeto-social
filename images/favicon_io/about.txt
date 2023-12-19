@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Chokokutai
+- Font Author: Copyright 2020 The Chokokutai Project Authors (https://github.com/go108go/Chokokutai), all rights reserved.
+- Font Source: http://fonts.gstatic.com/s/chokokutai/v9/kmK4Zqw4HwvCeHGM8Fws9y7ypu1Kr7I.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
